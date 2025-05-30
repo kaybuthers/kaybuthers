@@ -8,7 +8,7 @@
 # 📊 GitHub Stats: 
 <!--![](https://nirzak-streak-stats.vercel.app/?user=kaybuthers&theme=ambient_gradient&hide_border=false)-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaybuthers&show_icons=true&theme=ambient_gradient&hide_border=false&line_height=20)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaybuthers&theme=ambient_gradient&layout=compact&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaybuthers&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
 <!-- ![](https://github-profile-trophy.vercel.app/?username=kaybuthers&theme=dracula&no-frame=true&no-bg=true&margin-w=4)-->
 
 
