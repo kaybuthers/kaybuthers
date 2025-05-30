@@ -61,7 +61,6 @@
     </td>
   </tr>
 </table>
-nightowl
 ---
 
 ### 🎵 Fun Facts
